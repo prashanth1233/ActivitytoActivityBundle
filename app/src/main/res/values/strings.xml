@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bundle_example</string>
+    <string name="show_name">SHOW NAME</string>
+    <string name="name1">ENTER FIRST NAME</string>
+    <string name="name2">ENTER LAST NAME</string>
+    <string name="action_settings">Settings</string>
+</resources>
